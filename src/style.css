@@ -1,0 +1,51 @@
+h1 {
+  color: white;
+  font-family: "Outfit", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+p {
+  color: #768fb3;
+  font-family: "Outfit", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.card {
+  background-color: hsl(216, 50%, 16%);
+  margin: 0 auto;
+  margin-top: 100px;
+  border-radius: 13px;
+}
+.card-body {
+  padding-top: 0;
+}
+.card-img-top {
+  padding: 16px;
+  border-radius: 23px;
+}
+.eth-cost {
+  color: #51f5ef;
+  font-family: "Outfit", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
+.time-remaining {
+  color: #768fb3;
+  font-family: "Outfit", sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+}
+.line {
+  color: hsl(216, 23%, 36%);
+  padding-left: 16px;
+  padding-right: 16px;
+  display: block;
+  margin: 0 auto;
+}
